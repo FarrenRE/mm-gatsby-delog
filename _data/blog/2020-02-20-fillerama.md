@@ -5,7 +5,29 @@ date: 2020-02-20T14:59:36.571Z
 title: Why you SHOULD have a website
 thumbnail: /assets/shutterstock_1851856006.jpg
 ---
-# No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
+Why do you need a website?
+
+Well the answer is pretty simple, we live in a digital era and with the current pandemic ongoing, people seek out everything online. Therefore, a website is necessary, and a good website at that!
+
+A few (but not all) reasons to have a website
+
+1.Credibility of a legitimate business
+Having a website means you are serious about your business. It shows potential customers that you are real which will give them confidence in spending money and time on you. You wouldn't invest your money on a stranger would you?
+
+2.Showcase expertise
+Providing more information and content on your services/products shows that you know what you are talking about. It provides confidence that your services/products are not a joke. You highlight all the benefits and you can even be smart with your website by adding cool add-ons like pop up promotions for your best sellers.
+
+3.Attract customers and build relationships
+By getting potential customers to your website you can guide them around your website by knowing what they are clicking on, viewing and scrolling through. Taking this a step further, grab their email so you can continue customer journey mapping and email segmentation which will prove to the customer that you know their needs and wants by showcasing what they like (in other words, what they viewed and clicked on your website).
+
+4.Business position against your competitors
+Don’t be left behind, i can guarantee your competitors have websites and if you don't, they are already a step ahead of you. Your business position relies on you being better than your competitors, don't lose out on potential customers and build that website NOW!!
+
+5.Google Searches
+How many times do you search google a day? (I dare you to count!) Well that is exactly what your customers are doing, but if you're not there then sorry mate, but you missed out! By implementing SEO with your website you could easily increase traffic to your website, which would increase potential customers with an overall end result of increasing ROI. 
+
+
+### No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
 
 I am the Doctor, and you are the Daleks! You hit me with a cricket bat. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hit me with a cricket bat.
 
